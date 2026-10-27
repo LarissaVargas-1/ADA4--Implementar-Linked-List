@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 from datetime import datetime
 
 # ==========================================
-# PALETA ESMERALDA / VERDE OSCURO (OPTIMIZADA)
+# PALETA ESMERALDA / VERDE OSCURO
 # ==========================================
 
 FONDO = "#09120E"
